@@ -54,5 +54,4 @@ for i in range(1):
 	error = cost(output)
 	print(error)
 	backPropogation(inp, hidden, output, error)
-# def backpropogate(cost):	
 	
